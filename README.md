@@ -1,4 +1,4 @@
-# Binary Tree Implementation
+# Binary Tree Package
 
 This Python script defines a `Binary_Tree` class that includes methods for creating and managing a binary tree. The tree is implemented using a linked structure with nodes and pointers.
 
